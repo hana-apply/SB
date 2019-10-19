@@ -1,0 +1,29 @@
+
+# =============== #
+# Unity generated #
+# =============== #
+
+SB_unity/Temp/
+SB_unity/Library/
+SB_unity/Logs/
+SB_unity/obj/
+UnityGenerated/
+SB_unity/build/
+SB_unity/.vs
+*.csproj
+SB_unity/Assets/Unity Recorder
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
